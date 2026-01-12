@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Muhammad Bayu P
 
-**Fullstack Developer dengan fokus pada Backend, memiliki fondasi kuat dalam membangun aplikasi web skalabel dan RESTful API. Berpengalaman menggunakan Spring Boot, Node.js, dan Laravel, serta mahir dalam manajemen kontainer menggunakan Docker. Memiliki minat besar pada pengembangan berkelanjutan dan kolaborasi teknologi yang berdampak..
+**Fullstack Developer** dengan fokus pada Backend, memiliki fondasi kuat dalam membangun aplikasi web skalabel dan RESTful API. Berpengalaman menggunakan Spring Boot, Node.js, dan Laravel, serta mahir dalam manajemen kontainer menggunakan Docker. Memiliki minat besar pada pengembangan berkelanjutan dan kolaborasi teknologi yang berdampak..
 
 * 🔧 Background: IT Technical Support (network, hardware, software)
 * 🌱 Current focus: Backend (Spring Boot, Node.js) & Cloud/Docker
