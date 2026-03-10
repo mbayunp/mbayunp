@@ -60,5 +60,3 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mbayunp\&theme=solarized-light\&hide_border=false\&layout=compact)
 
 ---
-
-![Profile Views](https://visitcount.itsvg.in/api?id=mbayunp\&icon=0\&color=0)
