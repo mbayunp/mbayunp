@@ -30,14 +30,13 @@ Fokus pada pengembangan aplikasi web modern, RESTful API, dan sistem berbasis da
 ## 🏗️ Real Projects (Production / Deployed)
 
 * **Satu Data Garut** — Sistem data & informasi terintegrasi berbasis web  
-  *Tech:* React, Node.js, Express, MySQL
+  *Tech:* Laravel / Node.js, MySQL, Admin Dashboard System
 
 * **Picme Studio** — Sistem photobooth & manajemen hasil foto berbasis web  
   *Tech:* Node.js, Express, file handling API, React
 
 * **UKBI Garut 2026** — Platform ujian & sistem manajemen peserta berbasis web  
-  *Tech:* Laravel / Node.js, MySQL, Admin Dashboard System
-
+  *Tech:* React, Node.js, Express, MySQL
 ---
 
 ## 📌 Featured Projects
