@@ -87,11 +87,14 @@ GIS-based village information system — maps village assets, population data, a
 ## 📊 GitHub Activity
 
 <div align="center">
+
 <img src="https://streak-stats.demolab.com?user=mbayunp&theme=tokyonight&hide_border=true" />
+
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbayunp&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![Trophies](https://github-profile-trophy.vercel.app/?username=mbayunp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+
 </div>
----
 
 ## 🐍 Contribution Snake
 
