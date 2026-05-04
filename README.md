@@ -118,9 +118,6 @@ GIS-based village information system — maps village assets, population data, a
     src="https://raw.githubusercontent.com/mbayunp/mbayunp/output/github-contribution-grid-snake.svg" />
 </picture>
 
-> ⚠️ Remove this section until you've completed the snake GitHub Actions setup. Guide: https://github.com/Platane/snk
-
----
 
 ## 📬 Let's Talk
 
