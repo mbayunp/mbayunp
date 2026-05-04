@@ -91,7 +91,7 @@ GIS-based village information system — maps village assets, population data, a
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=mbayunp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+      <img src="[https://github-readme-stats.vercel.app/api?username=mbayunp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true](https://github-stats.as93.net/api?username=mbayunp&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)" />
     </td>
     <td>
       <img src="https://streak-stats.demolab.com?user=mbayunp&theme=tokyonight&hide_border=true" />
