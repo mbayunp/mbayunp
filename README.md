@@ -42,25 +42,6 @@ I'm currently open to **remote roles and freelance projects** where I can own th
 
 ---
 
-## 🏗️ Production Projects
-
-These aren't side projects. They're running.
-
-<table>
-  <tr>
-    <td width="50%">
-      <a href="https://github.com/mbayunp/picme-studio">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbayunp&repo=picme-studio&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/mbayunp/ukbi-garut">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=mbayunp&repo=ukbi-garut&theme=tokyonight&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
-
 ### 📊 [Satu Data Garut](https://github.com/mbayunp/satu-data-garut)
 Integrated data & information platform for Garut Regency government.  
 Built to centralize multi-department data into a single dashboard with role-based access control.  
