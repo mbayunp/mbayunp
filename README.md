@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=MBNP%20%7C%20Full%20Stack%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Digital%20Solutions%20for%20Public%20%26%20Creative%20Sectors&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Bayu%20%7C%20Fullstack%20Dev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Node.js%20%C2%B7%20Laravel%20%C2%B7%20React%20%C2%B7%20Building%20things%20that%20ship&descAlignY=58&descSize=18)
 
 <div align="center">
 
