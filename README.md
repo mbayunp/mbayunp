@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Bayu%20%7C%20Fullstack%20Dev&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Node.js%20%C2%B7%20Laravel%20%C2%B7%20React%20%C2%B7%20Building%20things%20that%20ship&descAlignY=58&descSize=18)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=MBNP%20%7C%20Full%20Stack%20Engineer&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Building%20Digital%20Solutions%20for%20Public%20%26%20Creative%20Sectors&descAlignY=58&descSize=18)
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&width=500&lines=Backend-first+Fullstack+Developer;5+production+apps+deployed;Node.js+%7C+Laravel+%7C+React;Open+to+remote+%26+freelance)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&width=500&lines=Full+Stack+Engineer+@+Diskominfo;Next.js+%7C+React+%7C+Node.js;Specialized+in+Government+Portals;Building+MBNP+Tech+Solutions)](https://git.io/typing-svg)
 
 ![Profile Views](https://komarev.com/ghpvc/?username=mbayunp&color=58A6FF&style=flat-square&label=Profile+Views)
 
@@ -10,81 +10,59 @@
 
 ---
 
-# Hey, I'm Bayu 👋
+# Hey, I'm Muhammad Bayu 👋
 
-I'm a **Fullstack Developer with a backend focus** based in Garut, Indonesia.  
-I build web applications that go beyond local — deployed, used by real people, solving real problems.
+I'm a **Full Stack Engineer** based in Bandung, currently developing digital infrastructure at **Dinas Komunikasi dan Informatika (Diskominfo) Kabupaten Garut**. I specialize in creating robust, scalable web applications that bridge the gap between complex data and user-friendly interfaces.
 
-Over the past few years I've shipped **5 production systems** across government, education, and creative industries — covering everything from REST API design and database architecture to admin dashboards and file handling systems.
-
-I'm currently open to **remote roles and freelance projects** where I can own the backend, contribute to the full stack, and build things that actually matter.
+Through **MBNP Tech**, I provide professional software development services, focusing on performance, clean code, and practical solutions for government and private enterprises.
 
 ---
 
-## 🛠️ What I Work With
+## 🛠️ Tech Stack
 
-[![Skills](https://skillicons.dev/icons?i=nodejs,express,laravel,react,mysql,mongodb,docker,git,js,php,html,css&perline=6)](https://skillicons.dev)
+[![Skills](https://skillicons.dev/icons?i=nextjs,react,nodejs,express,tailwind,mysql,mongodb,docker,git,js,ts,php&perline=6)](https://skillicons.dev)
 
-**Backend (where I live)**
-- Node.js + Express — REST APIs, JWT auth, MVC architecture, file handling
-- Laravel — full-cycle PHP apps, Eloquent ORM, middleware, role-based access
-
-**Frontend (what I use to ship)**
-- React — dashboards, data tables, form-heavy UIs
-- HTML/CSS/JS — responsive, clean, functional
-
-**Data**
-- MySQL — schema design, relational modeling, query optimization
-- MongoDB — document-based storage for flexible data structures
-
-**Tooling**
-- Git, Postman, Docker, Linux (VPS deployment)
+**Core Expertise**
+- **Modern Web:** Next.js, React, Tailwind CSS (Mobile-first & Responsive design)
+- **Backend:** Node.js, Express, Laravel (RESTful APIs, JWT, Middleware)
+- **Database:** MySQL (Relational Modeling), MongoDB (Flexible Schemas)
+- **Infrastructure:** Docker, Linux VPS Deployment, Local Network Configuration
 
 ---
 
-### 📊 [Satu Data Garut](https://github.com/mbayunp/satu-data-garut)
-Integrated data & information platform for Garut Regency government.  
-Built to centralize multi-department data into a single dashboard with role-based access control.  
-`Laravel` · `MySQL` · `Admin Dashboard` · `RBAC`
+## 🏛️ Featured Government Projects (Diskominfo Garut)
 
----
-
-### 📷 [Picme Studio](https://github.com/mbayunp/picme-studio)
-Web-based photobooth management system — handles session creation, image capture, file storage, and print-ready output generation.  
-`Node.js` · `Express` · `React` · `File Handling API` · `MySQL`
-
----
+### 📊 [Garut Satu Data Portal](https://github.com/mbayunp/satu-data-garut)
+Developing the official integrated data portal for Garut Regency. Focusing on backend migration and frontend optimization to centralize regional statistics.
+`Next.js` · `Tailwind CSS` · `Node.js` · `MySQL`
 
 ### 📝 [UKBI Garut 2026](https://github.com/mbayunp/ukbi-garut)
-Online exam and participant management platform for the UKBI language proficiency test.  
-Handles participant registration, exam sessions, scoring, and result distribution.  
-`React` · `Node.js` · `Express` · `MySQL`
+Developed the registration and administration portal for the *Uji Kemahiran Bahasa Indonesia* (Indonesian Language Proficiency Test) in Garut Regency.
+`React` · `Express` · `MySQL` · `Administrative Modules`
 
 ---
 
-### 🏭 Nakhoda System *(internal)*
-Production & order management system for a garment manufacturing business.  
-Tracks orders, production stages, materials, and delivery — built for daily operational use.  
-`Node.js` · `Express` · `MySQL`
+## 🚀 Creative & Business Solutions
+
+### 📷 [Picme Studio System](https://github.com/mbayunp/picme-studio)
+A comprehensive photobooth management system featuring a local booking dashboard and hardware integration for automated image processing.
+`Node.js` · `React` · `Hardware API` · `Local Dashboard`
+
+### 🏭 Nakhoda System
+An internal production tracking system designed for garment manufacturing, managing everything from raw materials to final delivery stages.
+`Express` · `MySQL` · `Process Automation`
 
 ---
 
-### 🗺️ Desa Digital System *(in progress)*
-GIS-based village information system — maps village assets, population data, and local services for rural administration.  
-`React` · `Node.js` · `Leaflet.js` · `MySQL`
+## 🔨 Current Focus
+
+- **Performance Engineering:** Optimizing query execution and frontend rendering for high-traffic government portals.
+- **Professional Growth:** Preparing for **ITPEC (Fundamental IT Engineer)** certification to align with international standards.
+- **MBNP Tech Identity:** Scaling my freelance solutions into a structured professional brand.
 
 ---
 
-## 🔨 Currently Working On
-
-- **Desa Digital** — building out the GIS layer and public-facing data portal
-- Containerizing existing projects with **Docker Compose** for cleaner deployment
-- Improving backend architecture patterns: **service layers, repository pattern, clean separation of concerns**
-- Slowly working toward TOEFL certification for international opportunities
-
----
-
-## 📊 GitHub Activity
+## 📊 Analytics & Activity
 
 <div align="center">
 
@@ -92,11 +70,9 @@ GIS-based village information system — maps village assets, population data, a
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbayunp&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=mbayunp&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
 </div>
 
-## 🐍 Contribution Snake
+## 🐍 Contribution Journey
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -107,14 +83,15 @@ GIS-based village information system — maps village assets, population data, a
     src="https://raw.githubusercontent.com/mbayunp/mbayunp/output/github-contribution-grid-snake.svg" />
 </picture>
 
+---
 
-## 📬 Let's Talk
+## 📬 Connect With Me
 
-If you have a backend problem, a system that needs building, or a remote role you think I'd be a good fit for — reach out.
+Whether it's for a government collaboration, a creative tech project, or a full-time remote opportunity—let's build something efficient.
 
-- 📧 **Email:** muhammadbayunp@gmail.com
 - 💼 **LinkedIn:** [linkedin.com/in/mbayunp](https://linkedin.com/in/mbayunp)
-- 🌐 **Portfolio:** coming soon
+- 📧 **Email:** muhammadbayunp@gmail.com
+- 🏍️ **Off-duty:** You can find me riding through West Java or trekking to mountain summits.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/mbayunp)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:muhammadbayunp@gmail.com)
