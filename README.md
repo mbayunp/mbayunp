@@ -64,11 +64,9 @@ An internal production tracking system designed for garment manufacturing, manag
 
 ## 📊 Analytics & Activity
 
-## 📊 Analytics & Activity
-
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mbayunp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbayunp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=mbayunp&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbayunp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most Used Languages" />
   <br/><br/>
   <img src="https://streak-stats.demolab.com?user=mbayunp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
