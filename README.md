@@ -64,24 +64,24 @@ An internal production tracking system designed for garment manufacturing, manag
 
 ## 📊 Analytics & Activity
 
+## 📊 Analytics & Activity
+
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=mbayunp&theme=tokyonight&hide_border=true" />
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=mbayunp&theme=tokyo-night&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mbayunp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbayunp&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <br/><br/>
+  <img src="https://streak-stats.demolab.com?user=mbayunp&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
 ## 🐍 Contribution Journey
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/mbayunp/mbayunp/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/mbayunp/mbayunp/output/github-contribution-grid-snake.svg" />
-  <img alt="snake animation"
-    src="https://raw.githubusercontent.com/mbayunp/mbayunp/output/github-contribution-grid-snake.svg" />
-</picture>
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mbayunp/mbayunp/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mbayunp/mbayunp/output/github-contribution-grid-snake.svg" />
+    <img alt="snake animation" src="https://raw.githubusercontent.com/mbayunp/mbayunp/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
 
 ---
 
